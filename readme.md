@@ -11,9 +11,10 @@ This repo will be updated regularly with new programs as I complete topics in DS
 
 - 🔹 Basic C++ Programs
 - 🔹 Operators
-- 🔹 Conditional Statements (if, else if, switch)
-- 🔹 Loops (for, while, do-while)
+- 🔹 Conditional Statements
+- 🔹 Loops
 - 🔹 Number & Star Patterns
+- 🔹 Functions
 
 ## 🛠 Tools I Use
 

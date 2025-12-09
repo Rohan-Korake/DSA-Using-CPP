@@ -21,5 +21,5 @@ int main(){
     cin>>r;
     nCr=factorial(n)/(factorial(r)*(factorial(n-r)));
     cout<<"Binomial coefficient is "<<nCr<<endl;
-    return 0;
+    return 0; 
 }
