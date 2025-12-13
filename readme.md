@@ -15,6 +15,7 @@ This repo will be updated regularly with new programs as I complete topics in DS
 - 🔹 Loops
 - 🔹 Number & Star Patterns
 - 🔹 Functions
+- 🔹 Number System
 
 ## 🛠 Tools I Use
 
