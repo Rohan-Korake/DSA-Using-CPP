@@ -17,6 +17,7 @@ This repo will be updated regularly with new programs as I complete topics in DS
 - 🔹 Functions
 - 🔹 Number System
 - 🔹 Concepts
+- 🔹 Arrays
 
 ## 🛠 Tools I Use
 
