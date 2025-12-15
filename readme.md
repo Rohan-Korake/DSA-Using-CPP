@@ -18,6 +18,7 @@ This repo will be updated regularly with new programs as I complete topics in DS
 - 🔹 Number System
 - 🔹 Concepts
 - 🔹 Arrays
+- 🔹 Vectors
 
 ## 🛠 Tools I Use
 
