@@ -19,6 +19,7 @@ This repo will be updated regularly with new programs as I complete topics in DS
 - 🔹 Concepts
 - 🔹 Arrays
 - 🔹 Vectors
+- 🔹 Subarrays
 
 ## 🛠 Tools I Use
 
