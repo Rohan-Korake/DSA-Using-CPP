@@ -20,6 +20,7 @@ This repo will be updated regularly with new programs as I complete topics in DS
 - 🔹 Arrays
 - 🔹 Vectors
 - 🔹 Subarrays
+- 🔹 Voting Algorithm
 
 ## 🛠 Tools I Use
 
